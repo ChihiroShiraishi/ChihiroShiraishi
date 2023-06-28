@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @ChihiroShiraishi
-- 👀 I’m interested in learn code language and improve what i learned.
-- 🌱 I’m currently learning SQL, Rapid Aplication Development...
-- 💞️ I’m looking to collaborate on (still looking for that).
-- 📫 How to reach me on facebook (on maintance) and Linkedin (on maintence).
+## Bem-vindo(a) ao meu universo mágico! ✨
+
+Oi, eu sou Chihiro Shiraishi e este é o meu cantinho especial aqui no GitHub. Sou apaixonada por desafios, programação e trazer um toque de diversão para tudo que faço. 🚀
+
+### Sobre mim:
+
+- 👩‍💻 Desenvolvedora entusiasmada e curiosa em constante aprendizado.
+- 🎉 Amante de tecnologia, filmes, música e tudo que envolve criatividade.
+- ✨ Acredito que o código pode ser uma forma de arte e procuro criar soluções mágicas.
+
+### Projetos incríveis que você encontrará aqui:
+
+[On maintence]
+
+### Vamos juntos nessa aventura?
+
+Se você está procurando por colaborações emocionantes ou simplesmente deseja bater um papo sobre programação e coisas divertidas, fique à vontade para entrar em contato. Estou sempre pronto(a) para novas conexões e desafios mágicos!
+
+Divirta-se explorando meus projetos e lembre-se: a magia acontece quando a imaginação encontra o código! ✨🔮✨
+
 
 <!---
-Aetheria89/Aetheria89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ChihiroShiraishi/ChihiroShiraishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
